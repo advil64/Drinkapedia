@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Drinkapedia</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Home</string>
+    <string name="drinkapedia">Drinkapedia</string>
+    <string name="title_activity_main">information</string>
+    <string name="title_activity_information">Information</string>
+    <string name="title_activity_drinks">Drinks</string>
+    <string name="title_activity_display">Display</string>
+    <string name="title_activity_history">History</string>
+    <string name="drink_prompt">Choose a drink</string>
+    <string-array name="drink_arrays">
+        <item>Alcohol</item>
+        <item>Water</item>
+        <item>Coffee</item>
+        <item>Sugar</item>
+
+    </string-array>
+
+
+    <string name="quantity">Quantity (oz)</string>
+    <string name="concentration">Alc Concentration</string>
+</resources>
