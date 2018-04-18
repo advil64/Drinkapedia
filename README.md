@@ -22,3 +22,5 @@ We are proud of the vast number of things we were able to accomplish in such a s
 What's next for Drinkapedia: The App that's better than Wikipedia
 
 We hope to expand the Apple Watch and android wear, to make it convenient for our users.
+
+(You need android studio to use this application, it will soon be avalible on the android play store)
