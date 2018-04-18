@@ -20,4 +20,5 @@ Accomplishments that we're proud of
 We are proud of the vast number of things we were able to accomplish in such a short amount of time. We created a fully functioning game, a website, and an app all in one night!
 
 What's next for Drinkapedia: The App that's better than Wikipedia
+
 We hope to expand the Apple Watch and android wear, to make it convenient for our users.
